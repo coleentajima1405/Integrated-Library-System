@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\bin\Debug\Integrated Library System.exe.config
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\bin\Debug\Integrated Library System.exe
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\bin\Debug\Integrated Library System.pdb
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated Library System.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated_Library_System.Form1.resources
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated_Library_System.Forms.AddEditBookForm.resources
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated_Library_System.Forms.AddEditBorrowerForm.resources
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated_Library_System.Forms.BooksForm.resources
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated_Library_System.Forms.BorrowBookForm.resources
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated_Library_System.Forms.BorrowersForm.resources
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated_Library_System.Forms.LoansForm.resources
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated_Library_System.Properties.Resources.resources
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated Library System.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated Library System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated Library System.exe
+C:\Users\Admin\source\repos\Integrated Library System\Integrated Library System\obj\Debug\Integrated Library System.pdb
